@@ -1,10 +1,10 @@
-package xyz.teamgravity.people.controller;
+package com.people.profiles.controller;
 
+import com.people.profiles.service.PersonService;
 import org.springframework.http.HttpStatus;
 import org.springframework.lang.NonNull;
 import org.springframework.web.bind.annotation.*;
-import xyz.teamgravity.people.model.PersonModel;
-import xyz.teamgravity.people.service.PersonService;
+import com.people.profiles.model.PersonModel;
 
 import javax.validation.Valid;
 import java.util.List;

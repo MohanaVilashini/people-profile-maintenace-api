@@ -1,4 +1,4 @@
-package xyz.teamgravity.people.exception;
+package com.people.profiles.exception;
 
 public class PersonNotExistException extends RuntimeException {
     public PersonNotExistException(String message) {

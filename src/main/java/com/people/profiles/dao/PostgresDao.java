@@ -1,10 +1,10 @@
-package xyz.teamgravity.people.dao;
+package com.people.profiles.dao;
 
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
-import xyz.teamgravity.people.exception.PersonNotExistException;
-import xyz.teamgravity.people.model.PersonModel;
+import com.people.profiles.exception.PersonNotExistException;
+import com.people.profiles.model.PersonModel;
 
 import java.util.List;
 import java.util.Optional;

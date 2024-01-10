@@ -1,9 +1,9 @@
-package xyz.teamgravity.people.dao.mock;
+package com.people.profiles.dao.mock;
 
+import com.people.profiles.exception.PersonNotExistException;
 import org.springframework.stereotype.Repository;
-import xyz.teamgravity.people.dao.PersonDao;
-import xyz.teamgravity.people.exception.PersonNotExistException;
-import xyz.teamgravity.people.model.PersonModel;
+import com.people.profiles.dao.PersonDao;
+import com.people.profiles.model.PersonModel;
 
 import java.util.ArrayList;
 import java.util.List;

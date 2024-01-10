@@ -1,4 +1,4 @@
-package xyz.teamgravity.people.model;
+package com.people.profiles.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

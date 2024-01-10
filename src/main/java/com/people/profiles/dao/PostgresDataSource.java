@@ -1,4 +1,4 @@
-package xyz.teamgravity.people.dao;
+package com.people.profiles.dao;
 
 import com.zaxxer.hikari.HikariDataSource;
 import org.springframework.boot.context.properties.ConfigurationProperties;

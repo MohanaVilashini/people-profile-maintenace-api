@@ -1,10 +1,10 @@
-package xyz.teamgravity.people.exception;
+package com.people.profiles.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
-import xyz.teamgravity.people.model.ExceptionModel;
+import com.people.profiles.model.ExceptionModel;
 
 import java.time.ZonedDateTime;
 

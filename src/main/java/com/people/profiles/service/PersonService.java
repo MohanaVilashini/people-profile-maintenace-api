@@ -1,9 +1,9 @@
-package xyz.teamgravity.people.service;
+package com.people.profiles.service;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
-import xyz.teamgravity.people.dao.PersonDao;
-import xyz.teamgravity.people.model.PersonModel;
+import com.people.profiles.dao.PersonDao;
+import com.people.profiles.model.PersonModel;
 
 import java.util.List;
 import java.util.Optional;

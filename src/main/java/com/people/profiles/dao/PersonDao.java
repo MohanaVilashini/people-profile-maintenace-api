@@ -1,6 +1,6 @@
-package xyz.teamgravity.people.dao;
+package com.people.profiles.dao;
 
-import xyz.teamgravity.people.model.PersonModel;
+import com.people.profiles.model.PersonModel;
 
 import java.util.List;
 import java.util.Optional;
